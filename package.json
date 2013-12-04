@@ -1,0 +1,27 @@
+{
+  "name": "tart-store",
+  "version": "0.0.0",
+  "description": "Tart store implementation",
+  "scripts": {
+    "examples-readme": "node examples/readme.js",
+    "test": "node scripts/test.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "nodeunit": "0.8.1"
+  },
+  "dependencies": {
+    "tart": "0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/tart-store.git"
+  },
+  "keywords": [
+    "actor",
+    "store",
+    "tart"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
